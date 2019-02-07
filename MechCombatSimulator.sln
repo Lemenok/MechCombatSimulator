@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MechCombatSimulator", "MechCombatSimulator\MechCombatSimulator.csproj", "{1D516BA0-6182-48D6-A7D6-D199F73A5E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechCombatSimulator.Test", "MechCombatSimulator.Test\MechCombatSimulator.Test.csproj", "{11A0297A-4F20-4FFD-9A87-BDCAFDF74C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D516BA0-6182-48D6-A7D6-D199F73A5E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D516BA0-6182-48D6-A7D6-D199F73A5E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D516BA0-6182-48D6-A7D6-D199F73A5E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D516BA0-6182-48D6-A7D6-D199F73A5E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A0297A-4F20-4FFD-9A87-BDCAFDF74C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A0297A-4F20-4FFD-9A87-BDCAFDF74C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A0297A-4F20-4FFD-9A87-BDCAFDF74C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A0297A-4F20-4FFD-9A87-BDCAFDF74C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF0AD18-953E-41E3-AEC1-EAB3674CF487}
+	EndGlobalSection
+EndGlobal
